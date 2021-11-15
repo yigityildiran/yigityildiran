@@ -1,6 +1,6 @@
 # Welcome to My Profile! <img src="https://raw.githubusercontent.com/SeamusMullan/SeamusMullan/master/wave.gif" width="30px">
 
-My name is Yigit and I am a first grade in Bezigrad High School. 
+My name is Yiğit and I am a first grade in Bezigrad High School. 
 I am interested in Programming and I want to do projects in further.
 I am Fullstack Developer.
 
