@@ -12,7 +12,7 @@ I am Fullstack Developer.
 
 My hobbies are playing Video Games, Programming and Illustration Art. My favourite Video Game is Last of Us Remastered since it's one of the first video games I've ever played!
 
-<img align="right" alt="GIF" src="https://github.com/Hybitzz/Hybitzz/blob/main/93DAE90B-9E13-4AF6-82C3-825E2F09EF1F.GIF" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/yigityildiran/yigityildiran/blob/main/93DAE90B-9E13-4AF6-82C3-825E2F09EF1F.GIF" width="500" height="320" />
 
 ## Connect with me
 <p align="left">
