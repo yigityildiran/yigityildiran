@@ -14,7 +14,7 @@ My hobbies are playing Video Games, Programming and Illustration Art. My favouri
 
 <img align="right" alt="GIF" src="https://github.com/yigityildiran/yigityildiran/blob/main/93DAE90B-9E13-4AF6-82C3-825E2F09EF1F.GIF" width="500" height="320" />
 
-## Connect with me
+## Contact Me 
 <p align="left">
 <a href="https://stackoverflow.com/users/hybitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hybitz" height="30" width="40" /></a>
 <a href="https://twitter.com/yigityld0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yigityld0" height="30" width="40" /></a>
