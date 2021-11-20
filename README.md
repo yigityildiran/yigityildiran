@@ -22,6 +22,7 @@ My hobbies are playing Video Games, Programming and Illustration Art. My favouri
 <a href="https://www.hackerrank.com/hybitz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hybitz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hybitzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hybitzz" height="30" width="40" /></a>
 <a href="https://yworld.hashnode.dev"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hybitz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yiğit-yıldıran-37ba35209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yiğit yıldıran" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
